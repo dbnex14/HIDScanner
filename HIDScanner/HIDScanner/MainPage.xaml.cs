@@ -40,13 +40,13 @@ namespace HIDScanner
         private void OnOKClicked(object sender, EventArgs e)
         {
             //DisplayAlert("OK Clicked", "You have clicked OK button", "OK");
-            eBarcode.Focus();
+            //eBarcode.Focus(); //commenting out this shows that after tapping this button, next scan will trigger this event
         }
 
         private void OnCancelClicked(object sender, EventArgs e)
         {
             DisplayAlert("Cancel Clicked", "You have clicked Cancel button", "OK");
-            eBarcode.Focus();
+            //eBarcode.Focus();  //commenting out this shows that after tapping this button, next scan will trigger this event
         }
 
         protected override void OnAppearing()

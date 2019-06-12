@@ -1,10 +1,6 @@
-﻿using System;
-
+﻿
 using Android.App;
 using Android.Content.PM;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
 using Android.OS;
 
 namespace HIDScanner.Droid
@@ -20,6 +16,10 @@ namespace HIDScanner.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+
+            //need this line to init effect in android
+            //Xamarin.KeyboardHelper.Platform.Droid.Effects.Init(this);
+
             LoadApplication(new App());
         }
     }

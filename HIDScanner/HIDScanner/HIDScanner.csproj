@@ -6,6 +6,5 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="4.0.0.482894" />
-    <PackageReference Include="Xamarin.EnableKeyboardEffect" Version="1.1.1" />
   </ItemGroup>
 </Project>

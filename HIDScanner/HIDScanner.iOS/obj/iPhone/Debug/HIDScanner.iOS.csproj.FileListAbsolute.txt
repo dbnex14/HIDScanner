@@ -118,7 +118,6 @@
 /Users/dinob/Desktop/mywork/xam/HIDScanner/HIDScanner/HIDScanner.iOS/obj/iPhone/Debug/HIDScanner.iOS.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\bin\iPhone\Debug\HIDScanner.iOS.exe
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\bin\iPhone\Debug\HIDScanner.iOS.pdb
-C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\bin\iPhone\Debug\Xamarin.EnableKeyboardEffect.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
@@ -174,4 +173,3 @@ C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\obj\i
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\obj\iPhone\Debug\HIDScanner.iOS.csproj.CopyComplete
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\obj\iPhone\Debug\HIDScanner.iOS.exe
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\obj\iPhone\Debug\HIDScanner.iOS.pdb
-C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.iOS\bin\iPhone\Debug\Xamarin.EnableKeyboardEffect.pdb

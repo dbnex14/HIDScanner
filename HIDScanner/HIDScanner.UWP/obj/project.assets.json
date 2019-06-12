@@ -330,15 +330,6 @@
           }
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -367,7 +358,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -875,15 +865,6 @@
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -912,7 +893,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -1421,15 +1401,6 @@
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -1458,7 +1429,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -1964,15 +1934,6 @@
           "lib/uap10.0/Microsoft.Graphics.Canvas.winmd": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -2001,7 +1962,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -2509,15 +2469,6 @@
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -2546,7 +2497,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -3055,15 +3005,6 @@
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -3092,7 +3033,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -3600,15 +3540,6 @@
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -3637,7 +3568,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -4146,15 +4076,6 @@
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -4183,7 +4104,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -8604,22 +8524,6 @@
         "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll",
         "win2d.uwp.1.20.0.nupkg.sha512",
         "win2d.uwp.nuspec"
-      ]
-    },
-    "Xamarin.EnableKeyboardEffect/1.1.1": {
-      "sha512": "qTeFrbbkuPegj4IHlwgUQI2iIekyAAe8SU2N/PgfIKNPGRk3kC1dQjljhgXjoE85EEWvgC19xMJ1X6nbnIFCeA==",
-      "type": "package",
-      "path": "xamarin.enablekeyboardeffect/1.1.1",
-      "files": [
-        ".signature.p7s",
-        "lib/monoandroid90/Xamarin.EnableKeyboardEffect.dll",
-        "lib/monoandroid90/Xamarin.EnableKeyboardEffect.pdb",
-        "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll",
-        "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.pdb",
-        "lib/xamarinios10/Xamarin.EnableKeyboardEffect.dll",
-        "lib/xamarinios10/Xamarin.EnableKeyboardEffect.pdb",
-        "xamarin.enablekeyboardeffect.1.1.1.nupkg.sha512",
-        "xamarin.enablekeyboardeffect.nuspec"
       ]
     },
     "Xamarin.Forms/4.0.0.482894": {

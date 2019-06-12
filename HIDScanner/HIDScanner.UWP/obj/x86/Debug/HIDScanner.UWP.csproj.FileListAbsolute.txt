@@ -9,7 +9,6 @@ C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Core\HIDScanner.UWP.exe
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\HIDScanner.UWP.build.appxrecipe
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\System.Runtime.dll
-C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Xamarin.EnableKeyboardEffect.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
@@ -52,7 +51,6 @@ C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\obj\x
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
-C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Xamarin.EnableKeyboardEffect.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb

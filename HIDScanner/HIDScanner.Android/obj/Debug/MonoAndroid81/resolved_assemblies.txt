@@ -28,7 +28,6 @@ C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\o
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.Palette.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.EnableKeyboardEffect.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.dll

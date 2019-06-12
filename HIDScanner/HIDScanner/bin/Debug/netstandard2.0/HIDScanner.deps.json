@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "bdb9776838d5f3ad77a27953eeb7903c2d50e906"
+    "signature": "1d3d98edbefa3b3d99a062c8c65be86a5d90df42"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,6 @@
       "HIDScanner/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "runtime": {
@@ -21,14 +20,6 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
-        }
-      },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {
-            "assemblyVersion": "1.1.1.0",
-            "fileVersion": "1.1.1.0"
-          }
         }
       },
       "Xamarin.Forms/4.0.0.482894": {
@@ -68,13 +59,6 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
-    },
-    "Xamarin.EnableKeyboardEffect/1.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-qTeFrbbkuPegj4IHlwgUQI2iIekyAAe8SU2N/PgfIKNPGRk3kC1dQjljhgXjoE85EEWvgC19xMJ1X6nbnIFCeA==",
-      "path": "xamarin.enablekeyboardeffect/1.1.1",
-      "hashPath": "xamarin.enablekeyboardeffect.1.1.1.nupkg.sha512"
     },
     "Xamarin.Forms/4.0.0.482894": {
       "type": "package",

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 using Foundation;
 using UIKit;
 
@@ -23,6 +20,10 @@ namespace HIDScanner.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+
+            //need this line to init effect in iOS
+            //Xamarin.KeyboardHelper.Platform.iOS.Effects.Init();
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

@@ -34,9 +34,6 @@
     <AppxPackagedFile Include="C:\Users\dbuljubasic\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dbuljubasic\.nuget\packages\xamarin.enablekeyboardeffect\1.1.1\lib\netstandard2.0\Xamarin.EnableKeyboardEffect.dll">
-      <PackagePath>Xamarin.EnableKeyboardEffect.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dbuljubasic\.nuget\packages\xamarin.forms\4.0.0.482894\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>

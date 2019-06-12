@@ -26,15 +26,6 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "compile": {
@@ -193,22 +184,6 @@
         "lib/netstandard1.0/_._",
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
-      ]
-    },
-    "Xamarin.EnableKeyboardEffect/1.1.1": {
-      "sha512": "qTeFrbbkuPegj4IHlwgUQI2iIekyAAe8SU2N/PgfIKNPGRk3kC1dQjljhgXjoE85EEWvgC19xMJ1X6nbnIFCeA==",
-      "type": "package",
-      "path": "xamarin.enablekeyboardeffect/1.1.1",
-      "files": [
-        ".signature.p7s",
-        "lib/monoandroid90/Xamarin.EnableKeyboardEffect.dll",
-        "lib/monoandroid90/Xamarin.EnableKeyboardEffect.pdb",
-        "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll",
-        "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.pdb",
-        "lib/xamarinios10/Xamarin.EnableKeyboardEffect.dll",
-        "lib/xamarinios10/Xamarin.EnableKeyboardEffect.pdb",
-        "xamarin.enablekeyboardeffect.1.1.1.nupkg.sha512",
-        "xamarin.enablekeyboardeffect.nuspec"
       ]
     },
     "Xamarin.Forms/4.0.0.482894": {
@@ -459,7 +434,6 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "Xamarin.EnableKeyboardEffect >= 1.1.1",
       "Xamarin.Forms >= 4.0.0.482894"
     ]
   },
@@ -509,10 +483,6 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
-          },
-          "Xamarin.EnableKeyboardEffect": {
-            "target": "Package",
-            "version": "[1.1.1, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

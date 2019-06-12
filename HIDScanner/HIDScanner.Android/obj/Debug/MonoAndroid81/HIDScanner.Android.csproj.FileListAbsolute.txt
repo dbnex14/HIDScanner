@@ -53,6 +53,7 @@ C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\b
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\bin\Debug\Xamarin.KeyboardHelper.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\bin\Debug\HIDScanner.Android.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\HIDScanner.pdb
@@ -62,7 +63,6 @@ C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\o
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\System.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
-C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.EnableKeyboardEffect.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Core.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.pdb
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Xaml.pdb

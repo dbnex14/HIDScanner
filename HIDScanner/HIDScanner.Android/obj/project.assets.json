@@ -328,15 +328,6 @@
           "build/monoandroid81/Xamarin.Android.Support.Vector.Drawable.targets": {}
         }
       },
-      "Xamarin.EnableKeyboardEffect/1.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll": {}
-        }
-      },
       "Xamarin.Forms/4.0.0.482894": {
         "type": "package",
         "dependencies": {
@@ -370,7 +361,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.EnableKeyboardEffect": "1.1.1",
           "Xamarin.Forms": "4.0.0.482894"
         },
         "compile": {
@@ -805,22 +795,6 @@
         "xamarin.android.support.vector.drawable.nuspec"
       ]
     },
-    "Xamarin.EnableKeyboardEffect/1.1.1": {
-      "sha512": "qTeFrbbkuPegj4IHlwgUQI2iIekyAAe8SU2N/PgfIKNPGRk3kC1dQjljhgXjoE85EEWvgC19xMJ1X6nbnIFCeA==",
-      "type": "package",
-      "path": "xamarin.enablekeyboardeffect/1.1.1",
-      "files": [
-        ".signature.p7s",
-        "lib/monoandroid90/Xamarin.EnableKeyboardEffect.dll",
-        "lib/monoandroid90/Xamarin.EnableKeyboardEffect.pdb",
-        "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.dll",
-        "lib/netstandard2.0/Xamarin.EnableKeyboardEffect.pdb",
-        "lib/xamarinios10/Xamarin.EnableKeyboardEffect.dll",
-        "lib/xamarinios10/Xamarin.EnableKeyboardEffect.pdb",
-        "xamarin.enablekeyboardeffect.1.1.1.nupkg.sha512",
-        "xamarin.enablekeyboardeffect.nuspec"
-      ]
-    },
     "Xamarin.Forms/4.0.0.482894": {
       "sha512": "tWyc8C3jYlvvrIORJxLLB3NvgmXxDDw5bcqlTronFSI5At8BYuAM8ersX7fwKElBlagsspwQ2onHvRti8ltUyw==",
       "type": "package",
@@ -1079,7 +1053,6 @@
       "Xamarin.Android.Support.v7.AppCompat >= 28.0.0.1",
       "Xamarin.Android.Support.v7.CardView >= 28.0.0.1",
       "Xamarin.Android.Support.v7.MediaRouter >= 28.0.0.1",
-      "Xamarin.EnableKeyboardEffect >= 1.1.1",
       "Xamarin.Forms >= 4.0.0.482894"
     ]
   },
@@ -1139,10 +1112,6 @@
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
             "version": "[28.0.0.1, )"
-          },
-          "Xamarin.EnableKeyboardEffect": {
-            "target": "Package",
-            "version": "[1.1.1, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

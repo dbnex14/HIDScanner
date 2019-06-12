@@ -28,7 +28,6 @@ C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.csproj.CoreCompileInputs.cache
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.AssemblyInfoInputs.cache
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.AssemblyInfo.cs
-C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.dll
 C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.pdb
-C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.csprojAssemblyReference.cache
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\XamlC.stamp
