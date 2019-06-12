@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{F0B9BB97-1936-4132-802F-91C159596ED1}|Default">
+  <MonoDevelop.Ide.ItemProperties.HIDScanner.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.HT4A2JT00828" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HIDScanner/HIDScanner.Android/MainActivity.cs">
+    <Files>
+      <File FileName="HIDScanner/HIDScanner/MainPage.xaml.cs" Line="43" Column="30" />
+      <File FileName="HIDScanner/HIDScanner/App.xaml.cs" Line="17" Column="1" />
+      <File FileName="HIDScanner/HIDScanner/MainPage.xaml" />
+      <File FileName="HIDScanner/HIDScanner/BarcodeItem.cs" Line="3" Column="2" />
+      <File FileName="HIDScanner/HIDScanner.iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="HIDScanner/HIDScanner.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="HIDScanner/HIDScanner.Android/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HIDScanner" expanded="True">
+            <Node name="HIDScanner" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="HIDScanner.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="HIDScanner.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HIDScanner.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.0b2a4310c871de92430e68a2b29f744d37580dea" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

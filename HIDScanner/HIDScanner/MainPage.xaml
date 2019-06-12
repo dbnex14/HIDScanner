@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HIDScanner"
+             xmlns:effects="clr-namespace:Xamarin.EnableKeyboardEffect;assembly=Xamarin.EnableKeyboardEffect"
+             x:Class="HIDScanner.MainPage">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness" iOS="0, 20, 0, 0" Default="0, 0, 0, 0" />
+    </ContentPage.Padding>
+
+    <StackLayout Margin="0, 50, 0, 0">
+        <!-- Place new controls here -->
+        <Label Text="Welcome to HID Scanner!" 
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+        <Entry x:Name="eBarcode"
+               Placeholder="Scan barcode"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               TextChanged="OnTextChanged"
+               Completed="OnCompleted"
+               effects:EnableKeyboardEffect.EnableKeyboard="False">
+            <Entry.Effects>
+                <effects:KeyboardEnableEffect/>
+            </Entry.Effects>
+        </Entry>
+
+        <ListView x:Name="lBarcodes"
+                  HasUnevenRows="True"
+                  Margin="10, 10, 0, 0">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell Height="60">
+                        <StackLayout Orientation="Horizontal">
+                            <BoxView BackgroundColor="#D35400" WidthRequest="10" Margin="0,0,0,10"/>
+                            <StackLayout BackgroundColor="White" Orientation="Vertical" Margin="5,5,10,5">
+                                <Label Text="{Binding Code}" FontAttributes="Bold"/>
+                                <Label Text="{Binding Scanned}" TextColor="Gray"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <StackLayout Orientation="Horizontal" VerticalOptions="End" HeightRequest="100" Margin="0,0,0,50" Padding="20">
+            <Button x:Name="btnOK" Text="OK" Clicked="OnOKClicked" VerticalOptions="Start" HorizontalOptions="StartAndExpand" WidthRequest="200">   
+            </Button>
+            <Button x:Name="btnCancel" Text="Cancel" Clicked="OnCancelClicked" VerticalOptions="Start" HorizontalOptions="EndAndExpand" WidthRequest="200">
+            </Button>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
