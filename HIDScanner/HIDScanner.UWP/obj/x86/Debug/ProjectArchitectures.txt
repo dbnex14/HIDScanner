@@ -1,0 +1,1 @@
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\HIDScanner.UWP.csproj;x86

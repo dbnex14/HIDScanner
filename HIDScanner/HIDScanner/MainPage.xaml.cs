@@ -39,7 +39,7 @@ namespace HIDScanner
 
         private void OnOKClicked(object sender, EventArgs e)
         {
-            DisplayAlert("OK Clicked", "You have clicked OK button", "OK");
+            //DisplayAlert("OK Clicked", "You have clicked OK button", "OK");
             eBarcode.Focus();
         }
 

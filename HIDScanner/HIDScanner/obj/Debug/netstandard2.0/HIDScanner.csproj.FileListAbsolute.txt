@@ -20,3 +20,15 @@
 /Users/dinob/Desktop/mywork/xam/HIDScanner/HIDScanner/HIDScanner/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/dinob/Desktop/mywork/xam/HIDScanner/HIDScanner/HIDScanner/obj/Debug/netstandard2.0/HIDScanner.dll
 /Users/dinob/Desktop/mywork/xam/HIDScanner/HIDScanner/HIDScanner/obj/Debug/netstandard2.0/HIDScanner.pdb
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\bin\Debug\netstandard2.0\HIDScanner.deps.json
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\bin\Debug\netstandard2.0\HIDScanner.dll
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\bin\Debug\netstandard2.0\HIDScanner.pdb
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.csproj.CoreCompileInputs.cache
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.AssemblyInfoInputs.cache
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.AssemblyInfo.cs
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.dll
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.pdb
+C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\obj\Debug\netstandard2.0\HIDScanner.csprojAssemblyReference.cache
