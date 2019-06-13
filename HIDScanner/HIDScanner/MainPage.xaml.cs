@@ -43,7 +43,7 @@ namespace HIDScanner
             if (!eBarcode.IsFocused)
             {
                 //eBarcode.Text = string.Empty;
-                //var focused = eBarcode.Focus();  //commenting out this shows that after tapping this button, next scan will trigger this event on UWP
+                //var focused = eBarcode.Focus();  //commenting out this shows that after tapping this button, next scan will trigger this event on UWP only
             }
         }
 
@@ -54,7 +54,7 @@ namespace HIDScanner
             if (!eBarcode.IsFocused)
             {
                 //eBarcode.Text = string.Empty;
-                //var focused = eBarcode.Focus();  //commenting out this shows that after tapping this button, next scan will trigger this event on UWP
+                //var focused = eBarcode.Focus();  //commenting out this shows that after tapping this button, next scan will trigger this event on UWP only
             }
         }
 
