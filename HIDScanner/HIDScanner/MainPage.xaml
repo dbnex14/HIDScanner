@@ -14,6 +14,8 @@
            HorizontalOptions="Center"
            VerticalOptions="Center" />
 
+        <!-- Setting IsVisible=False will prevent this functionality entirely on UWP and cause number 
+             of issues such as calling previously tapped button Command on scan.  Only on UWP. -->
         <Entry x:Name="eBarcode"
                Placeholder="Scan barcode"
                HorizontalOptions="Center"

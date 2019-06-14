@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-06-13T17:17:25.817</Modified>
+      <Modified>2019-06-14T18:13:59.671</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\HIDScanner.UWP.exe">
       <PackagePath>entrypoint\HIDScanner.UWP.exe</PackagePath>
-      <Modified>2019-06-13T17:17:21.751</Modified>
+      <Modified>2019-06-14T18:13:54.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dbuljubasic\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.8\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -65,7 +65,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner\bin\Debug\netstandard2.0\HIDScanner.dll">
       <PackagePath>HIDScanner.dll</PackagePath>
-      <Modified>2019-06-13T17:17:15.694</Modified>
+      <Modified>2019-06-14T18:13:44.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dbuljubasic\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -216,11 +216,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-06-13T17:17:21.451</Modified>
+      <Modified>2019-06-14T18:13:54.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-06-13T17:17:21.452</Modified>
+      <Modified>2019-06-14T18:13:54.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -233,11 +233,11 @@
     <AppxPackagedFile Include="C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-06-12T19:56:31.586</Modified>
+      <Modified>2019-06-14T18:13:55.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dbuljubasic\Desktop\work\xam\HIDScanner\HIDScanner\HIDScanner.UWP\bin\x86\Debug\Core\HIDScanner.UWP.exe">
       <PackagePath>HIDScanner.UWP.exe</PackagePath>
-      <Modified>2019-06-13T17:17:25.811</Modified>
+      <Modified>2019-06-14T18:13:59.663</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
